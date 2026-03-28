@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Virat Kohli",
-    "playerPicture": "https://example.com/virat.jpg",
+    "playerPicture": "https://i.ibb.co.com/d0nLZ95S/kohli231007.jpg",
     "playerCountry": "India",
     "playerType": "Batsman",
     "rating": 95,
@@ -11,7 +11,7 @@
   },
   {
     "playerName": "Babar Azam",
-    "playerPicture": "https://example.com/babar.jpg",
+    "playerPicture": "https://i.ibb.co.com/7Jy4QRkX/babor.jpg",
     "playerCountry": "Pakistan",
     "playerType": "Batsman",
     "rating": 93,
@@ -21,7 +21,7 @@
   },
   {
     "playerName": "Joe Root",
-    "playerPicture": "https://example.com/root.jpg",
+    "playerPicture": "https://i.ibb.co.com/WpHxQRhP/root.jpg",
     "playerCountry": "England",
     "playerType": "Batsman",
     "rating": 91,
@@ -31,7 +31,7 @@
   },
   {
     "playerName": "Kane Williamson",
-    "playerPicture": "https://example.com/kane.jpg",
+    "playerPicture": "https://i.ibb.co.com/PZJHPRXr/Williamson.webp",
     "playerCountry": "New Zealand",
     "playerType": "Batsman",
     "rating": 92,
@@ -41,7 +41,7 @@
   },
   {
     "playerName": "Steve Smith",
-    "playerPicture": "https://example.com/smith.jpg",
+    "playerPicture": "https://i.ibb.co.com/L71qc7b/smith.webp",
     "playerCountry": "Australia",
     "playerType": "Batsman",
     "rating": 94,
@@ -51,7 +51,7 @@
   },
   {
     "playerName": "Ben Stokes",
-    "playerPicture": "https://example.com/stokes.jpg",
+    "playerPicture": "https://i.ibb.co.com/9HQmPnCj/ben-stokes.jpg",
     "playerCountry": "England",
     "playerType": "All-rounder",
     "rating": 90,
@@ -61,7 +61,7 @@
   },
   {
     "playerName": "Shakib Al Hasan",
-    "playerPicture": "https://example.com/shakib.jpg",
+    "playerPicture": "https://i.ibb.co.com/gk470wt/sakib.webp",
     "playerCountry": "Bangladesh",
     "playerType": "All-rounder",
     "rating": 89,
@@ -71,7 +71,7 @@
   },
   {
     "playerName": "Hardik Pandya",
-    "playerPicture": "https://example.com/hardik.jpg",
+    "playerPicture": "https://i.ibb.co.com/kgjfRgtM/hardik.webp",
     "playerCountry": "India",
     "playerType": "All-rounder",
     "rating": 88,
@@ -81,7 +81,7 @@
   },
   {
     "playerName": "Jason Holder",
-    "playerPicture": "https://example.com/holder.jpg",
+    "playerPicture": "https://i.ibb.co.com/7tC6yNKY/jason-holer.webp",
     "playerCountry": "West Indies",
     "playerType": "All-rounder",
     "rating": 87,
@@ -91,7 +91,7 @@
   },
   {
     "playerName": "Rashid Khan",
-    "playerPicture": "https://example.com/rashid.jpg",
+    "playerPicture": "https://i.ibb.co.com/k2NZNrHd/rasid.webp",
     "playerCountry": "Afghanistan",
     "playerType": "Bowler",
     "rating": 91,
@@ -101,7 +101,7 @@
   },
   {
     "playerName": "Jasprit Bumrah",
-    "playerPicture": "https://example.com/bumrah.jpg",
+    "playerPicture": "https://i.ibb.co.com/6chMH3DT/bumra.webp",
     "playerCountry": "India",
     "playerType": "Bowler",
     "rating": 92,
@@ -111,7 +111,7 @@
   },
   {
     "playerName": "Mitchell Starc",
-    "playerPicture": "https://example.com/starc.jpg",
+    "playerPicture": "https://i.ibb.co.com/Y4Y5fPRG/starc.webp",
     "playerCountry": "Australia",
     "playerType": "Bowler",
     "rating": 90,
@@ -121,7 +121,7 @@
   },
   {
     "playerName": "Trent Boult",
-    "playerPicture": "https://example.com/boult.jpg",
+    "playerPicture": "https://i.ibb.co.com/tw8bXnZY/boult.webp",
     "playerCountry": "New Zealand",
     "playerType": "Bowler",
     "rating": 89,
@@ -131,7 +131,7 @@
   },
   {
     "playerName": "Kagiso Rabada",
-    "playerPicture": "https://example.com/rabada.jpg",
+    "playerPicture": "https://i.ibb.co.com/wF8cSTrw/rabada.webp",
     "playerCountry": "South Africa",
     "playerType": "Bowler",
     "rating": 91,
@@ -141,7 +141,7 @@
   },
   {
     "playerName": "Jos Buttler",
-    "playerPicture": "https://example.com/buttler.jpg",
+    "playerPicture": "https://i.ibb.co.com/DHZ5Cbdc/butlar.webp",
     "playerCountry": "England",
     "playerType": "Wicketkeeper",
     "rating": 90,
@@ -151,7 +151,7 @@
   },
   {
     "playerName": "Quinton de Kock",
-    "playerPicture": "https://example.com/dekock.jpg",
+    "playerPicture": "https://i.ibb.co.com/sGMsBn4/dekock.webp",
     "playerCountry": "South Africa",
     "playerType": "Wicketkeeper",
     "rating": 89,
@@ -161,7 +161,7 @@
   },
   {
     "playerName": "KL Rahul",
-    "playerPicture": "https://example.com/rahul.jpg",
+    "playerPicture": "https://i.ibb.co.com/TJpNxns/kl-ruhul.jpg",
     "playerCountry": "India",
     "playerType": "Wicketkeeper",
     "rating": 88,
@@ -171,7 +171,7 @@
   },
   {
     "playerName": "David Warner",
-    "playerPicture": "https://example.com/warner.jpg",
+    "playerPicture": "https://i.ibb.co.com/TD4y7M4S/warner.webp",
     "playerCountry": "Australia",
     "playerType": "Batsman",
     "rating": 90,
@@ -181,7 +181,7 @@
   },
   {
     "playerName": "Rohit Sharma",
-    "playerPicture": "https://example.com/rohit.jpg",
+    "playerPicture": "https://i.ibb.co.com/FqqWFYMF/rohit.webp",
     "playerCountry": "India",
     "playerType": "Batsman",
     "rating": 93,
@@ -191,12 +191,163 @@
   },
   {
     "playerName": "Glenn Maxwell",
-    "playerPicture": "https://example.com/maxwell.jpg",
+    "playerPicture": "https://i.ibb.co.com/1fNn77Dx/maxwel.jpg",
     "playerCountry": "Australia",
     "playerType": "All-rounder",
     "rating": 89,
     "battingStyle": "Right-hand bat",
     "bollingStyle": "Right-arm offbreak",
     "price": 960000
+  },
+  {
+    "playerName": "MS Dhoni",
+    "playerPicture": "https://i.ibb.co.com/B21c1JSM/dhoni.webp",
+    "playerCountry": "India",
+    "playerType": "Wicketkeeper",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm medium",
+    "price": 1020000
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerPicture": "https://i.ibb.co.com/4n0fBLSm/adb-villers.jpg",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm medium",
+    "price": 1080000
+  },
+  {
+    "playerName": "Lasith Malinga",
+    "playerPicture": "https://i.ibb.co.com/xq9p3sHb/malinga.jpg",
+    "playerCountry": "Sri Lanka",
+    "playerType": "Bowler",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm fast",
+    "price": 970000
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerPicture": "https://i.ibb.co.com/GvJZ0pm4/russel.jpg",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm fast-medium",
+    "price": 1040000
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerPicture": "https://i.ibb.co.com/1Yx3WHYY/rizwon.webp",
+    "playerCountry": "Pakistan",
+    "playerType": "Wicketkeeper",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "N/A",
+    "price": 930000
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerPicture": "https://i.ibb.co.com/8gMrvW4j/shahinsha-aridi.webp",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bollingStyle": "Left-arm fast",
+    "price": 1010000
+  },
+  {
+    "playerName": "Marnus Labuschagne",
+    "playerPicture": "https://i.ibb.co.com/7xZ99yV0/Labuschagne.jpg",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm legbreak",
+    "price": 920000
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "playerPicture": "https://i.ibb.co.com/bMkK10Cs/Faf-du-Plessis.webp",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 87,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm legbreak",
+    "price": 910000
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerPicture": "https://i.ibb.co.com/bD5dGmg/Mustafizur.webp",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bollingStyle": "Left-arm fast-medium",
+    "price": 970000
+  },
+  {
+    "playerName": "Aiden Markram",
+    "playerPicture": "https://i.ibb.co.com/6RLkv49q/Markram.webp",
+    "playerCountry": "South Africa",
+    "playerType": "All-rounder",
+    "rating": 86,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm offbreak",
+    "price": 900000
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "playerPicture": "https://i.ibb.co.com/bgC7qSHy/tamim.webp",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 88,
+    "battingStyle": "Left-hand bat",
+    "bollingStyle": "Right-arm offbreak",
+    "price": 920000
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerPicture": "https://i.ibb.co.com/LD8M3MML/Mushfiqur.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "N/A",
+    "price": 940000
+  },
+  {
+    "playerName": "Mahmudullah Riyad",
+    "playerPicture": "https://i.ibb.co.com/9kPf0Qzv/Mahmudullah-Riyad.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 87,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm offbreak",
+    "price": 910000
+  },
+  {
+    "playerName": "Litton Das",
+    "playerPicture": "https://i.ibb.co.com/P8tN58R/Litton.jpg",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm offbreak",
+    "price": 930000
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerPicture": "https://i.ibb.co.com/8nj0X1w0/Taskin.webp",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 86,
+    "battingStyle": "Right-hand bat",
+    "bollingStyle": "Right-arm fast",
+    "price": 900000
   }
+
 ]
