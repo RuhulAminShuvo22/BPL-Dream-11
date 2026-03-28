@@ -11,7 +11,7 @@ const AvailablePlayers = ({players}) => {
                 {
                 
                players.map(player => {
-                console.log(player, 'player')
+                //console.log(player, 'player')
 
                 return (
                     <Card player={player}></Card>
