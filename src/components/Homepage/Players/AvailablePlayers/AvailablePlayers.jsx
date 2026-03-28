@@ -2,7 +2,7 @@ import React from 'react';
 
 import Card from '../../../UI/Card';
 
-const AvailablePlayers = ({players}) => {
+const AvailablePlayers = ({players , setCoin, coin}) => {
     console.log(players, "players")
     return (
         <div>
@@ -14,7 +14,7 @@ const AvailablePlayers = ({players}) => {
                 //console.log(player, 'player')
 
                 return (
-                    <Card player={player}></Card>
+                    <Card player={player} setCoin = {setCoin} coin={coin}></Card>
                 
                 )
                }) 
