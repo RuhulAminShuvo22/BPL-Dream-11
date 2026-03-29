@@ -23,7 +23,7 @@ const Card = ({player , setCoin , coin, selectedPlayers , setSelectedPlayers}) =
         
 
         
-        toast(`${player.playerName} is selected`)
+        toast.success(`${player.playerName} is selected`)
         setIsSelected(true);
 
         setSelectedPlayers([...selectedPlayers, player])
