@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 
-const SelectedPlayers = () => {
+const SelectedPlayers = ({selectedPlayers}) => {
+
+    console.log(selectedPlayers, "setSlelectedPlayers")
+
     return (
         <div>
             selected Players
