@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "playerName": "Virat Kohli",
     "playerPicture": "https://i.ibb.co.com/d0nLZ95S/kohli231007.jpg",
     "playerCountry": "India",
@@ -10,6 +11,7 @@
     "price": 1200000
   },
   {
+    "id": 2,
     "playerName": "Babar Azam",
     "playerPicture": "https://i.ibb.co.com/7Jy4QRkX/babor.jpg",
     "playerCountry": "Pakistan",
@@ -20,6 +22,7 @@
     "price": 1100000
   },
   {
+    "id": 3,
     "playerName": "Joe Root",
     "playerPicture": "https://i.ibb.co.com/WpHxQRhP/root.jpg",
     "playerCountry": "England",
@@ -30,6 +33,7 @@
     "price": 1000000
   },
   {
+    "id": 4,
     "playerName": "Kane Williamson",
     "playerPicture": "https://i.ibb.co.com/PZJHPRXr/Williamson.webp",
     "playerCountry": "New Zealand",
@@ -40,6 +44,7 @@
     "price": 1050000
   },
   {
+    "id": 5,
     "playerName": "Steve Smith",
     "playerPicture": "https://i.ibb.co.com/L71qc7b/smith.webp",
     "playerCountry": "Australia",
@@ -50,6 +55,7 @@
     "price": 1150000
   },
   {
+    "id": 6,
     "playerName": "Ben Stokes",
     "playerPicture": "https://i.ibb.co.com/9HQmPnCj/ben-stokes.jpg",
     "playerCountry": "England",
@@ -60,6 +66,7 @@
     "price": 980000
   },
   {
+    "id": 7,
     "playerName": "Shakib Al Hasan",
     "playerPicture": "https://i.ibb.co.com/gk470wt/sakib.webp",
     "playerCountry": "Bangladesh",
@@ -70,6 +77,7 @@
     "price": 950000
   },
   {
+    "id": 8,
     "playerName": "Hardik Pandya",
     "playerPicture": "https://i.ibb.co.com/kgjfRgtM/hardik.webp",
     "playerCountry": "India",
@@ -80,6 +88,7 @@
     "price": 920000
   },
   {
+    "id": 9,
     "playerName": "Jason Holder",
     "playerPicture": "https://i.ibb.co.com/7tC6yNKY/jason-holer.webp",
     "playerCountry": "West Indies",
@@ -90,6 +99,7 @@
     "price": 900000
   },
   {
+    "id": 10,
     "playerName": "Rashid Khan",
     "playerPicture": "https://i.ibb.co.com/k2NZNrHd/rasid.webp",
     "playerCountry": "Afghanistan",
@@ -100,6 +110,7 @@
     "price": 1000000
   },
   {
+    "id": 11,
     "playerName": "Jasprit Bumrah",
     "playerPicture": "https://i.ibb.co.com/6chMH3DT/bumra.webp",
     "playerCountry": "India",
@@ -110,6 +121,7 @@
     "price": 1050000
   },
   {
+    "id": 12,
     "playerName": "Mitchell Starc",
     "playerPicture": "https://i.ibb.co.com/Y4Y5fPRG/starc.webp",
     "playerCountry": "Australia",
@@ -120,6 +132,7 @@
     "price": 980000
   },
   {
+    "id": 13,
     "playerName": "Trent Boult",
     "playerPicture": "https://i.ibb.co.com/tw8bXnZY/boult.webp",
     "playerCountry": "New Zealand",
@@ -130,6 +143,7 @@
     "price": 950000
   },
   {
+    "id": 14,
     "playerName": "Kagiso Rabada",
     "playerPicture": "https://i.ibb.co.com/wF8cSTrw/rabada.webp",
     "playerCountry": "South Africa",
@@ -140,6 +154,7 @@
     "price": 1000000
   },
   {
+    "id": 15,
     "playerName": "Jos Buttler",
     "playerPicture": "https://i.ibb.co.com/DHZ5Cbdc/butlar.webp",
     "playerCountry": "England",
@@ -150,6 +165,7 @@
     "price": 970000
   },
   {
+    "id": 16,
     "playerName": "Quinton de Kock",
     "playerPicture": "https://i.ibb.co.com/sGMsBn4/dekock.webp",
     "playerCountry": "South Africa",
@@ -160,6 +176,7 @@
     "price": 940000
   },
   {
+    "id": 17,
     "playerName": "KL Rahul",
     "playerPicture": "https://i.ibb.co.com/TJpNxns/kl-ruhul.jpg",
     "playerCountry": "India",
@@ -170,6 +187,7 @@
     "price": 930000
   },
   {
+    "id": 18,
     "playerName": "David Warner",
     "playerPicture": "https://i.ibb.co.com/TD4y7M4S/warner.webp",
     "playerCountry": "Australia",
@@ -180,6 +198,7 @@
     "price": 990000
   },
   {
+    "id": 19,
     "playerName": "Rohit Sharma",
     "playerPicture": "https://i.ibb.co.com/FqqWFYMF/rohit.webp",
     "playerCountry": "India",
@@ -190,6 +209,7 @@
     "price": 1100000
   },
   {
+    "id": 20,
     "playerName": "Glenn Maxwell",
     "playerPicture": "https://i.ibb.co.com/1fNn77Dx/maxwel.jpg",
     "playerCountry": "Australia",
@@ -200,6 +220,7 @@
     "price": 960000
   },
   {
+    "id": 21,
     "playerName": "MS Dhoni",
     "playerPicture": "https://i.ibb.co.com/B21c1JSM/dhoni.webp",
     "playerCountry": "India",
@@ -210,6 +231,7 @@
     "price": 1020000
   },
   {
+    "id": 22,
     "playerName": "AB de Villiers",
     "playerPicture": "https://i.ibb.co.com/4n0fBLSm/adb-villers.jpg",
     "playerCountry": "South Africa",
@@ -220,6 +242,7 @@
     "price": 1080000
   },
   {
+    "id": 23,
     "playerName": "Lasith Malinga",
     "playerPicture": "https://i.ibb.co.com/xq9p3sHb/malinga.jpg",
     "playerCountry": "Sri Lanka",
@@ -230,6 +253,7 @@
     "price": 970000
   },
   {
+    "id": 24,
     "playerName": "Andre Russell",
     "playerPicture": "https://i.ibb.co.com/GvJZ0pm4/russel.jpg",
     "playerCountry": "West Indies",
@@ -240,6 +264,7 @@
     "price": 1040000
   },
   {
+    "id": 25,
     "playerName": "Mohammad Rizwan",
     "playerPicture": "https://i.ibb.co.com/1Yx3WHYY/rizwon.webp",
     "playerCountry": "Pakistan",
@@ -250,6 +275,7 @@
     "price": 930000
   },
   {
+    "id": 26,
     "playerName": "Shaheen Afridi",
     "playerPicture": "https://i.ibb.co.com/8gMrvW4j/shahinsha-aridi.webp",
     "playerCountry": "Pakistan",
@@ -260,6 +286,7 @@
     "price": 1010000
   },
   {
+    "id": 27,
     "playerName": "Marnus Labuschagne",
     "playerPicture": "https://i.ibb.co.com/7xZ99yV0/Labuschagne.jpg",
     "playerCountry": "Australia",
@@ -270,6 +297,7 @@
     "price": 920000
   },
   {
+    "id": 28,
     "playerName": "Faf du Plessis",
     "playerPicture": "https://i.ibb.co.com/bMkK10Cs/Faf-du-Plessis.webp",
     "playerCountry": "South Africa",
@@ -280,6 +308,7 @@
     "price": 910000
   },
   {
+    "id": 29,
     "playerName": "Mustafizur Rahman",
     "playerPicture": "https://i.ibb.co.com/bD5dGmg/Mustafizur.webp",
     "playerCountry": "Bangladesh",
@@ -290,6 +319,7 @@
     "price": 970000
   },
   {
+    "id": 30,
     "playerName": "Aiden Markram",
     "playerPicture": "https://i.ibb.co.com/6RLkv49q/Markram.webp",
     "playerCountry": "South Africa",
@@ -300,6 +330,7 @@
     "price": 900000
   },
   {
+    "id": 31,
     "playerName": "Tamim Iqbal",
     "playerPicture": "https://i.ibb.co.com/bgC7qSHy/tamim.webp",
     "playerCountry": "Bangladesh",
@@ -310,6 +341,7 @@
     "price": 920000
   },
   {
+    "id": 32,
     "playerName": "Mushfiqur Rahim",
     "playerPicture": "https://i.ibb.co.com/LD8M3MML/Mushfiqur.jpg",
     "playerCountry": "Bangladesh",
@@ -320,6 +352,7 @@
     "price": 940000
   },
   {
+    "id": 33,
     "playerName": "Mahmudullah Riyad",
     "playerPicture": "https://i.ibb.co.com/9kPf0Qzv/Mahmudullah-Riyad.jpg",
     "playerCountry": "Bangladesh",
@@ -330,6 +363,7 @@
     "price": 910000
   },
   {
+    "id": 34,
     "playerName": "Litton Das",
     "playerPicture": "https://i.ibb.co.com/P8tN58R/Litton.jpg",
     "playerCountry": "Bangladesh",
@@ -340,6 +374,7 @@
     "price": 930000
   },
   {
+    "id": 35,
     "playerName": "Taskin Ahmed",
     "playerPicture": "https://i.ibb.co.com/8nj0X1w0/Taskin.webp",
     "playerCountry": "Bangladesh",
@@ -349,5 +384,4 @@
     "bollingStyle": "Right-arm fast",
     "price": 900000
   }
-
 ]

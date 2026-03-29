@@ -19,7 +19,7 @@ const Players = ({playerPromise , setCoin, coin}) => {
 
             
             <div  className='flex justify-between gap-4 items-center mb-[20px]'>
-                { selectedType === "available" ? <h2 className='font-bold text-3xl'>Available Players</h2> : <h2 className='font-bold text-3xl'>Selected Players(2/35)</h2> }
+                { selectedType === "available" ? <h2 className='font-bold text-3xl'>Available Players</h2> : <h2 className='font-bold text-3xl'>Selected Players({selectedPlayers.length}/{players.length})</h2> }
 
                 <div>
                     <button 
@@ -32,7 +32,7 @@ const Players = ({playerPromise , setCoin, coin}) => {
                     <button
                     onClick={ () => setSelectedType("selected")} 
                     className={`btn ${selectedType === "selected" ? "bg-[#E7FE29]" : "" }   btn rounded-l-none rounded-r-2xl`}>
-                        Selected(0)
+                        Selected({selectedPlayers.length})
                     </button>
 
                 </div>
@@ -47,7 +47,7 @@ const Players = ({playerPromise , setCoin, coin}) => {
              coin= {coin} 
              setSelectedPlayers = {setSelectedPlayers} 
              selectedPlayers = {selectedPlayers} 
-             ></AvailablePlayers>) : (<SelectedPlayers selectedPlayers = {selectedPlayers}></SelectedPlayers>)}
+             ></AvailablePlayers>) : (<SelectedPlayers selectedPlayers = {selectedPlayers} setSelectedPlayers={setSelectedPlayers}></SelectedPlayers>)}
         </div>
     );
 };
